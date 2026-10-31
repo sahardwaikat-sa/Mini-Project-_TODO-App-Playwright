@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { TodoPage } from '../pages/page.js';
+import { TodoPage } from '../pages/Page.js';
 
 
 
