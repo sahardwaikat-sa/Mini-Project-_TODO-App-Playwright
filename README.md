@@ -13,16 +13,19 @@ This project is an End-to-End (E2E) Automation Testing Project for a TODO applic
 
 The main objective is to automate the main functionalities of the TODO application and verify that they work as expected.
 
-🛠️ Technologies & Tools
-Technology	Description
-🟨 JavaScript	Programming language
-🎭 Playwright	Automation testing framework
-🟢 Node.js	JavaScript runtime
-💻 VS Code	Code editor
-🐙 Git & GitHub	Version control
-⚙️ GitHub Actions	CI/CD automation
-📂 Project Structure
-text
+## 🛠️ Technologies & Tools
+
+| Technology | Description |
+|---|---|
+| 🟨 JavaScript | Programming language |
+| 🎭 Playwright | Automation testing framework |
+| 🟢 Node.js | JavaScript runtime |
+| 💻 VS Code | Code editor |
+| 🐙 Git & GitHub | Version control |
+| ⚙️ GitHub Actions | CI/CD automation |
+## 📂 Project Structure
+
+```text
 Mini-Project-TODO-App-Playwright/
 │
 ├── pages/
@@ -39,7 +42,6 @@ Mini-Project-TODO-App-Playwright/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
 🎯 Test Scenarios
 
 The project covers the following test scenarios:
